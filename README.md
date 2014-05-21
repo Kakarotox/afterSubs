@@ -1,3 +1,5 @@
+Usar o programa Aegisub
+
 afterSubs
 =========
 
